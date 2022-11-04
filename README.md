@@ -1,23 +1,5 @@
 # TweetAMovie-Dataset
 
-## Summary 
-
-Metric | Value
---- | ---
-Number of unique movies                 | 6041
-Number of rating                       | 6015
-Minimum rating value                    | 0.0
-Maximum rating value                    | 10.0
-Number of genres                    | 23
-Release year range                       | 1946-2021
-Minimum votes value      | 218
-Maximum votes value      | 2164069
-Minimum number of genre/movie | 1
-Maximum number of genre/movie | 3
-Number of tweets | 368726
-Number of well-structured tweets | 4370
-Number of unstructured tweets | 364356
-Language     | English
 
 ## Data Collection Process 
 
@@ -78,6 +60,27 @@ TweetAMovie dataset can be used to develop techniques for different applications
 - Temporal popularity prediction.
 - Sentiment Analysis.
 
+## Summary 
+
+Metric | Value
+--- | ---
+Number of unique movies                 | 6041
+Number of rating                       | 6015
+Minimum rating value                    | 0.0
+Maximum rating value                    | 10.0
+Number of genres                    | 23
+Release year range                       | 1946-2021
+Minimum votes value      | 218
+Maximum votes value      | 2164069
+Minimum number of genre/movie | 1
+Maximum number of genre/movie | 3
+Number of tweets | 368726
+Number of well-structured tweets | 4370
+Number of unstructured tweets | 364356
+Language     | English
+
 <!--## Publications using TweetAMovie
 - [Prediction of Movie Success using Twitter Temporal Mining] (https://link.springer.com/chapter/10.1007/978-981-16-2377-6_12)-->
+
+
 
